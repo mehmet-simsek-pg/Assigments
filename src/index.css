@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    font-size: 32px;
+    background-color: rgb(64, 91, 224);
+    color: orange;
+}
+
+li {
+    font-size: 30px;
+    background-color: greenyellow;
+    color: blue;
+    width: 20%;
+}
+
+a {
+    color: rgb(27, 8, 235);
+}
