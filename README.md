@@ -1,5 +1,5 @@
-#Clarusway Full Stack Development Homeworks
+# Clarusway Full Stack Development Homeworks
 This repository contains homeworks source code.
 
-##Webpage
+## Webpage
 https://mehmet-simsek-pg.github.io/Homeworks/src/
