@@ -10,10 +10,12 @@
   <body>
     <div class="container">
       <div class="form-border">
-        <h1 style="color:white; text-align: center;">NET<span style="color: red; font-style: oblique;">FLIX</span>
-                </h1>
-                <h4 style="color: white; text-align: center;">Thank you for signing up at Netflix.
-                    Tell us more about your self</h4>
+        <h1 style="color: white; text-align: center">
+          NET<span style="color: red; font-style: oblique">FLIX</span>
+        </h1>
+        <h4 style="color: white; text-align: center">
+          Thank you for signing up at Netflix. Tell us more about your self
+        </h4>
 
         <div class="form">
           <table>
@@ -23,16 +25,16 @@
               </td>
             </tr>
             <tr>
-               <td>
-              <input
-                type="text"
-                id="name"
-                placeholder="Enter your name"
-                required
-              />
-            </td> 
+              <td>
+                <input
+                  type="text"
+                  id="name"
+                  placeholder="Enter your name"
+                  required
+                />
+              </td>
             </tr>
-            
+
             <tr>
               <td>
                 <label for="age">Age</label>
@@ -120,18 +122,19 @@
             </tr>
             <tr>
               <td>
-                <input id="male" type="checkbox" name="male" value="male" />
+                <input
+                  id="male"
+                  type="radio"
+                  name="gender"
+                  value="male"
+                  checked
+                />
                 <label for="male">Male</label>
               </td>
             </tr>
             <tr>
               <td>
-                <input
-                  id="female"
-                  type="checkbox"
-                  name="female"
-                  value="female"
-                />
+                <input id="female" type="radio" name="gender" value="female" />
                 <label for="female">Female</label>
               </td>
             </tr>
@@ -139,8 +142,8 @@
               <td>
                 <input
                   id="diverse"
-                  type="checkbox"
-                  name="diverse"
+                  type="radio"
+                  name="gender"
                   value="diverse"
                 />
                 <label for="diverse">Diverse</label>
@@ -176,7 +179,6 @@
                     border-radius: 15px;
                     margin-left: 6rem;
                     margin-top: 1rem;
-                    
                   "
                 />
               </td>
