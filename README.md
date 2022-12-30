@@ -2,4 +2,4 @@
 This repository contains html-css homeworks source code.
 
 ## Webpage
-https://mehmet-simsek-pg.github.io/HTML-CSS-Homeworks/src/
+https://mehmet-simsek-pg.github.io/HTML-CSS-Homeworks/
